@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.courseregistrationwaitinglist.MainActivity">
+
+
+    <!-- to add both items in screen upper right corner with 3 dots -->
+
+    <item
+        android:id="@+id/action_create_sample"
+        android:orderInCategory="100"
+        android:title="@string/create_sample_data"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_delete_all"
+        android:orderInCategory="100"
+        android:title="@string/delete_all_students"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_sort_by_fn"
+        android:orderInCategory="100"
+        android:title="@string/sort_by_first_name"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_sort_by_ln"
+        android:orderInCategory="100"
+        android:title="@string/sort_by_last_name"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_sort_by_pr"
+        android:orderInCategory="100"
+        android:title="@string/sort_by_priority"
+        app:showAsAction="never" />
+
+</menu>

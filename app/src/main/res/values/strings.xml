@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">CourseRegistrationWaitingList</string>
+
+    <string name="new_student">New student</string>
+    <string name="create_sample_data">Create sample data</string>
+    <string name="delete_all_students">delete all students</string>
+    <string name="are_you_sure">Are you sure?</string>
+    <string name="are_you_sure_delete">Do you want to delete student?</string>
+    <string name="all_deleted">All students deleted</string>
+    <string name="more">more</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="student_updated">Student Updated</string>
+    <string name="action_delete">Delete</string>
+    <string name="student_deleted">Student deleted</string>
+    <string name="delete_student_title">Delete Student</string>
+    <string name="delete_all_title">Delete All Students</string>
+    <string name="sort_by_first_name">Sort By First Name</string>
+    <string name="sort_by_last_name">Sort By Last Name</string>
+    <string name="sort_by_priority">Sort By Priority</string>
+</resources>
